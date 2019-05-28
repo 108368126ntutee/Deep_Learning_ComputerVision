@@ -1,0 +1,3 @@
+網址：https://youtu.be/RbdOuxmqTCY
+
+使用 yolo V3 進行乖乖商標辨認
