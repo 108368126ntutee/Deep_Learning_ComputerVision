@@ -1,0 +1,3 @@
+URL : https://youtu.be/erMh8iTLOa0
+使用Yolo V3 進行五位辛普森家庭角色辨識
+Bart Simpson , Homer Simpson , Marge Simpson , Lisa Simpson , Abraham Simpson
