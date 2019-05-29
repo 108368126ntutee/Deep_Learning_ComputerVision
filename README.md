@@ -40,5 +40,13 @@
 
 # Semantic Segmentation
   
-  1. Kitti Road
+  1. DeepLab v3 with PASCAL VOC 2012
+  
+  2. ADE
+  
+
+------------------------------------------------------------------------------------------------------------------------
+
+# Neural Style Transfer
+
 
