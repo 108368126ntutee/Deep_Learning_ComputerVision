@@ -41,8 +41,10 @@
 # Semantic Segmentation
   
   1. CityScape
-  
-  
+  ![image](https://github.com/page45678/Deep_Learning_ComputerVision/blob/master/semantic%20Segmentation/CityScape/Image/5.png)
+  ![image](https://github.com/page45678/Deep_Learning_ComputerVision/blob/master/semantic%20Segmentation/CityScape/Image/5prediction_960x540.jpg)
+  ![image](https://github.com/page45678/Deep_Learning_ComputerVision/blob/master/semantic%20Segmentation/CityScape/Image/4.png)
+  ![image](https://github.com/page45678/Deep_Learning_ComputerVision/blob/master/semantic%20Segmentation/CityScape/Image/4prediction_960x540.jpg)
   
 
 ------------------------------------------------------------------------------------------------------------------------
