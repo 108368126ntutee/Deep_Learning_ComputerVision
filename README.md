@@ -2,7 +2,7 @@
          
         * Ubuntu 16.04 LTS   
          
-        * NVIDIA GTX 1080 ti 驅動 : NVIDIA-415  
+        * NVIDIA GTX 1080 ti  driver : NVIDIA-415  
          
         * CUDA 9.0 CUDNN 7.4.2   
          
@@ -40,9 +40,9 @@
 
 # Semantic Segmentation
   
-  1. DeepLab v3 with PASCAL VOC 2012
+  1. CityScape
   
-  2. ADE
+  
   
 
 ------------------------------------------------------------------------------------------------------------------------
