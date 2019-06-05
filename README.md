@@ -1,16 +1,16 @@
-# 相關系統設定： 
+# Environment Setting： 
          
-        * Ubuntu 16.04 LTS   
+     * Ubuntu 16.04 LTS   
          
-        * NVIDIA GTX 1080 ti  driver : NVIDIA-415  
+     * NVIDIA GTX 1080 ti  driver : NVIDIA-415  
          
-        * CUDA 9.0 CUDNN 7.4.2   
+     * CUDA 9.0 CUDNN 7.4.2   
          
-        * OPENCV 3.2.0
+     * OPENCV 3.2.0
          
-        * Python 3.6.7
+     * Python 3.6.7
          
-        * Tensorflow-gpu version = 1.12
+     * Tensorflow-gpu version = 1.12
          
 ----------------------------------------------------------------------------------------------------------------------
 
