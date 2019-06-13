@@ -26,7 +26,7 @@
 -----------------------------------------------------------------------------------------------------------------------
 
 # YoloV3 :
-   Collect training dataset by goole image download
+   Collect training dataset by goole image download and train with Yolo V3 model from darknet
    
    1. Lion Detection : https://reurl.cc/rv53x
    
