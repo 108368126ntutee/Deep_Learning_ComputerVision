@@ -21,13 +21,13 @@
    2. Simpson Family Character : https://www.kaggle.com/alexattia/the-simpsons-characters-dataset/version/4
    
    3. Pneunomia detection : https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
-   
-   
+      1. TensorFlow 1.12 version
+      2. TensorFlow 2.0 alpha version  
   
 -----------------------------------------------------------------------------------------------------------------------
 
 # YoloV3 :
-
+         
    1. Lion Detection : https://reurl.cc/rv53x
    
    2. 乖乖商標辨識 : https://youtu.be/RbdOuxmqTCY
@@ -39,6 +39,7 @@
 -----------------------------------------------------------------------------------------------------------------------
 
 # Semantic Segmentation
+  Implement with TensorFlow official code DeepLab V3+ and test with my own video screenshot (video : https://youtu.be/xY5JPdmL8V8)
   
   1. CityScape
   ![image](https://github.com/page45678/Deep_Learning_ComputerVision/blob/master/semantic%20Segmentation/CityScape/Image/5.png)
@@ -50,7 +51,8 @@
 ------------------------------------------------------------------------------------------------------------------------
 
 # Neural Style Transfer
+Implement with code in cousera course Deep Learning Specialization
+
 ![image](https://github.com/page45678/Deep_Learning_ComputerVision/blob/master/NeuralStyleTransfer/Image/1.jpg)
 ![image](https://github.com/page45678/Deep_Learning_ComputerVision/blob/master/NeuralStyleTransfer/Image/2.jpg)
 ![image](https://github.com/page45678/Deep_Learning_ComputerVision/blob/master/NeuralStyleTransfer/Image/3.jpg)
-
