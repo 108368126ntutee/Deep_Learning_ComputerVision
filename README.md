@@ -2,7 +2,7 @@
          
      * Ubuntu 16.04 LTS   
          
-     * NVIDIA GTX 1080 ti  driver : NVIDIA-415  
+     * NVIDIA GTX 1080 ti, driver : NVIDIA-415  
          
      * Tensorflow-gpu version = 1.12, CUDA 9.0, CUDNN 7.4.2   
        Tensorflow-gpu verions = 2.0 alpha, CUDA 10, CUDNN 7.4.2
@@ -26,7 +26,7 @@
 -----------------------------------------------------------------------------------------------------------------------
 
 # YoloV3 :
-   Collect train dataset by goole image download
+   Collect training dataset by goole image download
    
    1. Lion Detection : https://reurl.cc/rv53x
    
@@ -40,7 +40,7 @@
 
 # Semantic Segmentation :
   Implement with TensorFlow official code DeepLab V3+ 
-  and test with my own video screenshot (video : https://youtu.be/xY5JPdmL8V8)
+  and test with my own video screenshot (https://youtu.be/xY5JPdmL8V8)
   
   1. CityScape
   ![image](https://github.com/page45678/Deep_Learning_ComputerVision/blob/master/semantic%20Segmentation/CityScape/Image/5.png)
