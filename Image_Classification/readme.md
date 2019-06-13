@@ -8,3 +8,5 @@
                     
       3.Pneumonia : Use InceptionResNet V2 as base model to classify a X-ray of a patient get pneumonai or not
                     data from kaggle dataset
+                    1. TensorFlow 1.12 version
+                    2. TensorFlow 2.0 alpha version
