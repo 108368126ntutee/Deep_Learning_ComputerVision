@@ -18,7 +18,9 @@
    1. Dog Breed : https://www.kaggle.com/c/dog-breed-identification    
    
    2. Simpson Family Character : https://www.kaggle.com/alexattia/the-simpsons-characters-dataset/version/4
-   
+      1. TensorFlow 1.12 version
+      2. TensorFlow 2.0 alpha version 
+      
    3. Pneunomia detection : https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
       1. TensorFlow 1.12 version
       2. TensorFlow 2.0 alpha version  
